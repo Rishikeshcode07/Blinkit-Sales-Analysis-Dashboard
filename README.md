@@ -16,6 +16,7 @@ The main objective is to analyze:
   * 😀 Customer feedback through item ratings
 
 All of this is combined into a single, interactive Power BI dashboard that can help business users make faster and smarter decisions. ⚡
+![Dashboard preview](https://github.com/Rishikeshcode07/Blinkit-Sales-Analysis-Dashboard/blob/main/Screenshot%202025-12-13%20173650.png)
 
 📌 Key KPIs Tracked
 To keep the analysis focused and actionable, the dashboard highlights four core KPIs:
