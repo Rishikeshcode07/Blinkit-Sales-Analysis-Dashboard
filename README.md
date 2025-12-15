@@ -1,6 +1,6 @@
 📊 Blinkit Sales Analysis Dashboard
 Welcome to the Blinkit Sales Analysis project! 🚀
-This end‑to‑end case study transforms raw Blinkit sales data into clean visuals, meaningful KPIs, and business‑ready insights using Excel for data preparation and Power BI for interactive dashboards. ✨
+This end‑to‑end case study transforms raw Blinkit sales data into clean visuals, meaningful KPIs, and business‑ready insights using Excel for data preparation, Python for analysis and Power BI for interactive dashboards. ✨
 The goal is not just to build charts, but to tell a clear data story that any stakeholder can understand in a few minutes. 💬📈
 
 🎯 Project Objective
@@ -87,12 +87,14 @@ Interpreting the results, highlighting key insights (top outlets, best‑perform
 
   * 🧮 DAX (Data Analysis Expressions) – Custom measures and calculations for KPIs
 
+  * 🐍 Python (Jupyter Notebook) – Additional exploratory data analysis, visualizations, and validation of insights using the file Blinkit-Analysis-in-Python.ipynb 🔬📊  
+
 This combination replicates a real‑world BI workflow used in many analytics teams. 🧑‍💻
 
 👨‍💻 Who Can Benefit From This Project?
 This repository is especially helpful for:
 
-  * 🧑‍🎓 Students learning Power BI, Excel, and data analytics
+  * 🧑‍🎓 Students learning Python, Power BI, Excel, and data analytics 
 
   * 📊 Entry‑level and aspiring Data Analysts / BI Developers building their portfolio
 
@@ -108,6 +110,8 @@ You can use this project as a template or inspiration for your own case studies 
   * 📁 Power BI report file (.pbix) with all visuals and DAX measures
 
   * 📝 Documentation and notes explaining the steps followed
+
+  * 🐍 Blinkit-Analysis-in-Python.ipynb – Python‑based Blinkit analysis with EDA, visualizations, and supporting calculations  
 
   * 🖼️ Screenshots of key report pages for a quick preview
 
