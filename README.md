@@ -1,7 +1,7 @@
 
 # Blinkit Quick Commerce & Inventory Intelligence Dashboard
 
-### Dashboard Link : [https://app.powerbi.com/groups/me/reports/your-custom-report-url-here](https://app.powerbi.com/groups/me/reports/970509bb-98c2-4bec-ab2b-a9ec2e530e36/1af8888980cb3fdd4a46?experience=power-bi)
+### Dashboard Link : https://app.powerbi.com/groups/me/reports/970509bb-98c2-4bec-ab2b-a9ec2e530e36/1af8888980cb3fdd4a46?experience=power-bi
 
 ## Situation (Problem Statement)
 
